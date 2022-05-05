@@ -1,6 +1,6 @@
 /**
- * \usergroup{SceNgs}
- * \usage{psp2/ngs_internal.h,SceNgs_stub}
+ * \kernelgroup{SceNgs}
+ * \usage{psp2kern/ngs_internal.h,SceNgs_stub}
  */
 
 
